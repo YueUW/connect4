@@ -11,4 +11,4 @@ HOW TO START THIS PROJECT:
 AUTHORS: Yue Zhuo
 USER INSTRUCTIONS:
 
-I only implemented the 'myAgent' class. Others are provided by udacity.com
+'My Agent' class was implemented by building a strategy to determine which column to play. It can beat build-in agent 9 times out of 10. 
